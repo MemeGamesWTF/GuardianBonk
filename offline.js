@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1762871021,
+	"version": 1763401389,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -45,6 +45,8 @@
 		"images/life_bar-sheet1.png",
 		"images/life_bar-sheet2.png",
 		"images/spritefont.png",
+		"images/info-sheet0.png",
+		"images/info-sheet1.png",
 		"media/bonk.ogg",
 		"media/footsteps.ogg",
 		"media/gameover.ogg",
